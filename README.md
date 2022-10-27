@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello World
 
 > This is the first project that we made on Microverse, it has a heading with the color blue.
@@ -16,8 +14,8 @@
 
 
 ### Prerequisites
-Github
-Git
+-Github
+-Git
 
 ## Authors
 👤 **Sohail**
@@ -36,10 +34,6 @@ Feel free to check the [issues page](https://github.com/batoorsohail/hello-world
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
 
 ## 📝 License
 
