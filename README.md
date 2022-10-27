@@ -15,8 +15,8 @@
 
 ### Prerequisites
 
--Github
--Git
+Github
+Git
 
 ## Authors
 👤 **Sohail**
